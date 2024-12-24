@@ -1,0 +1,1 @@
+I developed a responsive weather app using HTML, CSS, JavaScript, and WeatherAPI. It fetches real-time weather data, allowing users to search any location and view live updates on temperature, conditions, time, and day. 
